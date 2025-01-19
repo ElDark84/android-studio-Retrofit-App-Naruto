@@ -35,7 +35,7 @@ It is necessary to add the following dependencies in the file [`app/build.gradle
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 ```
 
-# AndoirdManifest.xml
+# AndroidManifest.xml
 It is necessary to add Internet access permissions in [AndroidManifest.xml](app/src/main/AndroidManifest.xml) file:
 
 ``` bash

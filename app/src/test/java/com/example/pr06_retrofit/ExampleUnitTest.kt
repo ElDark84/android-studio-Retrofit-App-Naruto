@@ -1,4 +1,4 @@
-package com.example.retrofitapp
+package com.example.pr06_retrofit
 
 import org.junit.Test
 
